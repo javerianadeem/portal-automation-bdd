@@ -1,0 +1,10 @@
+com\qa\pages\LoginPage.class
+com\qa\pages\DashboardPage.class
+com\qa\util\TestUtil.class
+com\qa\stepDefinition\DashboardSteps.class
+com\qa\stepDefinition\PersonalInformationSteps.class
+com\qa\pages\PersonalInformationPage.class
+com\qa\stepDefinition\Hooks.class
+com\qa\stepDefinition\LoginPageStep.class
+TestRunner.class
+com\qa\base\TestBase.class
